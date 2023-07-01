@@ -12,7 +12,7 @@
 
 <div class="p-8 text-2xl max-w-2xl mx-auto flex flex-col justify-center align-middle">
 	<p>
-		Follow us on instagram @drinksfoodlife
+		If you want to stay updated on our latest drinks, food, and life stories, don’t forget to follow us on Instagram @drinksfoodlife You’ll get to see behind-the-scenes photos, videos, and tips from our amazing contributors and staff. Plus, you’ll be the first to know about our special offers, events, and giveaways. Just click on the link below and hit the follow button. It would be a tremendous honor connect with you!
 	</p>
 
 	<br /> <br />

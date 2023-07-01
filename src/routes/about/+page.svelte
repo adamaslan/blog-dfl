@@ -8,7 +8,7 @@
 <h1 class="text-4xl text-center my-8 uppercase">About NYC Sound Guy</h1>
 <div class="p-8 text-2xl max-w-2xl mx-auto flex flex-col justify-center align-middle">
 	<p>
-
+		Founded with the desire to focus on drinks and food, but then life in its most general yet effervescent spirit came through. We have had contributions from @chemixtry, @journeyswithjaphe , Loic Luspo, @omlettehoe, @cosmicveggie and others.
 		Contact us today!
 	</p>
 	<p>
