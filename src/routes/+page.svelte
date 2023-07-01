@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to the Drinks Food Life Blog</h1>
+<p>Visit <a href="https://www.drinksfoodlife.com">Drinks Food Life!</a> to see our main site :)</p>
