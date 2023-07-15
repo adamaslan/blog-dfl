@@ -13,8 +13,6 @@ I
 src/components/Nav.svelte,1/2/122accf3f5ecc9d444737dabe1d7d2e951dbcba5
 Q
 !src/routes/subscribe/+page.svelte,4/f/4f23873b12f158b8f9c755b4a437ccab0495f781
-M
-src/routes/about/+page.svelte,e/a/eaddc2bae94040a36ea3f898ec310932a47588aa
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 C
@@ -27,7 +25,9 @@ I
 src/app.css,f/8/f84891de375015dbc3259b098070fffaa6c0752c
 <
 src/app.d.ts,5/0/50d669c9d022d89914a4c9c77a94171b6b438948
-K
-src/routes/fun/+page.svelte,7/8/7809a4e28956738e5c3c0a3d7653945202146952
 G
 src/routes/+page.svelte,0/c/0cc7436e43646401331b342eb4c6db357ce6f5a9
+M
+src/routes/about/+page.svelte,e/a/eaddc2bae94040a36ea3f898ec310932a47588aa
+V
+&src/routes/brandedcontent/+page.svelte,1/8/188accd59c150d413e681318f529a45a3632fb10

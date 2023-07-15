@@ -11,6 +11,7 @@
 		Founded with the desire to focus on drinks and food, but then life in its most general yet effervescent spirit came through. We have had contributions from @chemixtry, @journeyswithjaphe , Loic Luspo, @omlettehoe, @cosmicveggie and others.
 		Contact us today!
 	</p>
+	<p>If you are a company that offers products or services in the drinks, food, or life categories, and you want to reach a large and loyal audience of passionate consumers, we can help you create branded content that will showcase your brand and boost your sales. We have the experience, the creativity, and the reputation to produce high-quality content that aligns with your goals and values, and resonates with our readers. We offer flexible and affordable packages that suit your budget and needs. Contact us today and let’s work together to make your brand shine.</p>
 	<p>
 		To get our email =>
 		{#if foo}
