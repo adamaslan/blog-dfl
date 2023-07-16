@@ -3,6 +3,8 @@
 
     /* add any custom styles here */
 
+
+
     /* create a unique grid shape for desktop using grid-template-areas */
     .grid {
         display: grid;

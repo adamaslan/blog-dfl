@@ -15,10 +15,6 @@ B
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-<
-src/app.html,4/3/43f343fa8f8b3d19f33620db6bc88b192afa9d3d
-I
-src/routes/+layout.svelte,5/7/57bd45b2d1884d7c824dd9391c6e95fe5ea8b351
 ;
 src/app.css,f/8/f84891de375015dbc3259b098070fffaa6c0752c
 <
