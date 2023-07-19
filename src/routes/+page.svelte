@@ -3,8 +3,6 @@
 
     /* add any custom styles here */
 
-
-
     /* create a unique grid shape for desktop using grid-template-areas */
     .grid {
         display: grid;
@@ -77,23 +75,44 @@
         <p>Visit <a href="https://www.drinksfoodlife.com" class="text-white underline">Drinks Food Life!</a> to see our main site :)</p>
         <p>This blog gives a bit of a behind the scenes view of Drinks Food Life Magazine and our branded content</p>
         <p>We love brands and their content</p>
+
+        <details className="collapse bg-base-200">
+            <summary className="collapse-title text-xl font-medium">Click to see our email</summary>
+            <div className="collapse-content">
+                <p>drinksfoodlife@gmail.com</p>
+            </div>
+        </details>
+
+        <!-- use daisyUI menu component -->
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <!-- use daisyUI button component -->
+        <button class="btn btn-primary">Subscribe</button>
+
     </div>
 
     <div class="main">
-        <p>Some dummy text</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis leo vitae lorem tincidunt sagittis. Mauris euismod lacus id augue aliquet, quis tincidunt nisl malesuada. Fusce vitae leo sit amet justo luctus consequat. Donec quis diam ut nisl sagittis tristique. Morbi id massa vitae justo lacinia aliquet. Cras at arcu vel nisi malesuada rutrum.</p>
-        <p>Some more dummy text</p>
-        <p>Phasellus quis lorem quis magna tincidunt ullamcorper. Curabitur ac eros at augue ultrices mattis. Sed eget sapien et massa commodo viverra. Quisque sit amet urna vitae neque ultricies vehicula. In hac habitasse platea dictumst. Suspendisse potenti. Mauris id leo sed elit condimentum blandit.</p>
-    </div>
 
-    <div class="right">
-        <p>Some dummy text</p>
-        <p>Nunc nec lorem sit amet velit sagittis eleifend. In hac habitasse platea dictumst. Proin ut dolor et elit rutrum fermentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent sed lacus id nisi consectetur mollis.</p>
-        <p>Some more dummy text</p>
-        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi ut eros sed arcu luctus aliquet. Sed quis nisl vitae lorem lacinia tincidunt. Donec quis leo sit amet justo luctus consequat. Donec quis diam ut nisl sagittis tristique.</p>
-    </div>
+        <!-- use daisyUI card component -->
+        <div class="card shadow-lg">
+            <figure>
+                <img src="/images/coffee.jpg" alt="Coffee">
+            </figure>
+            <div class="card-body">
+                <h2 class="card-title">How to brew the perfect coffee</h2>
+                <p>A guide to making delicious coffee at home with simple tools and techniques.</p>
+                <div class="card-actions">
+                    <a href="#" class="btn btn-primary">Read more</a>
+                    <a href="#" class="btn btn-secondary">View source</a>
+                </div>
+            </div>
+        </div>
 
-    <div class="footer">
-        <p>© 2023 by Drinks Food Life. Proudly created with daisyUI.</p>
     </div>
 </div>
