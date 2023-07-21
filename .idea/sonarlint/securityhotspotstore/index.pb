@@ -15,15 +15,7 @@ Q
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 ;
 src/app.css,f/8/f84891de375015dbc3259b098070fffaa6c0752c
-<
-src/app.d.ts,5/0/50d669c9d022d89914a4c9c77a94171b6b438948
 M
 src/routes/about/+page.svelte,e/a/eaddc2bae94040a36ea3f898ec310932a47588aa
 V
 &src/routes/brandedcontent/+page.svelte,1/8/188accd59c150d413e681318f529a45a3632fb10
-I
-src/routes/+layout.svelte,5/7/57bd45b2d1884d7c824dd9391c6e95fe5ea8b351
-<
-src/app.html,4/3/43f343fa8f8b3d19f33620db6bc88b192afa9d3d
-C
-tailwind.config.cjs,a/8/a825d64fa8a4855ccb263b0423919fda9cf7e9e3
