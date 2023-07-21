@@ -1,3 +1,9 @@
+<script>
+
+    import Toggle from '../components/Toggle.svelte';
+    import dump from '$lib/northdump1.jpg'
+</script>
+
 <style>
 
 
@@ -70,7 +76,7 @@
 
 <div class="grid">
     <h1 class="text-4xl font-bold">Welcome to the Drinks Food Life Blog</h1>
-
+<Toggle />
     <div class="left">
         <p>Visit <a href="https://www.drinksfoodlife.com" class="text-white underline">Drinks Food Life!</a> to see our main site :)</p>
         <p>This blog gives a bit of a behind the scenes view of Drinks Food Life Magazine and our branded content</p>
@@ -102,11 +108,11 @@
         <!-- use daisyUI card component -->
         <div class="card shadow-lg">
             <figure>
-                <img src="/images/coffee.jpg" alt="Coffee">
+                <img src={dump} alt="Dumplings">
             </figure>
             <div class="card-body">
-                <h2 class="card-title">How to brew the perfect coffee</h2>
-                <p>A guide to making delicious coffee at home with simple tools and techniques.</p>
+                <h2 class="card-title">We love food drinks and life!</h2>
+                <p>Let us help you realize your vision for all things Drinks, Food, and Life!</p>
                 <div class="card-actions">
                     <a href="#" class="btn btn-primary">Read more</a>
                     <a href="#" class="btn btn-secondary">View source</a>
